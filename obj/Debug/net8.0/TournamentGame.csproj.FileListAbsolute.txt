@@ -12,3 +12,4 @@ c:\Users\nnnnew\Desktop\TournamentGame\obj\Debug\net8.0\refint\TournamentGame.dl
 c:\Users\nnnnew\Desktop\TournamentGame\obj\Debug\net8.0\TournamentGame.pdb
 c:\Users\nnnnew\Desktop\TournamentGame\obj\Debug\net8.0\TournamentGame.genruntimeconfig.cache
 c:\Users\nnnnew\Desktop\TournamentGame\obj\Debug\net8.0\ref\TournamentGame.dll
+c:\Users\nnnnew\Desktop\TournamentGame\obj\Debug\net8.0\TournamentGame.sourcelink.json
